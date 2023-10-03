@@ -210,7 +210,20 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [
+                    { value: "http://127.0.0.1:25500/sub?" },
+                    { value: "https://study.lanyundev.com/sub?" },
+                    { value: "以下域名不保证可用性✅和安全性🔐" },
+                    { value: "http://api.tsutsu.cc:520/sub?" },
+                    { value: "https://api2.tsutsu.cc/sub?" },
+                    { value: "https://api.v1.mk/sub?" },
+                    { value: "https://subcon.dlj.tf/sub?" },
+                    { value: "https://api.dler.io/sub?" },
+                    { value: "https://api.wcc.best/sub?" },
+                    { value: "https://api.hope140.live/sub?" },
+                    { value: "https://sub.proxypoolv2.tk/sub?" },
+                    { value: "https://sub.id9.cc/sub?" }
+                ],
         remoteConfig: [
           {
             label: "universal",
