@@ -212,7 +212,7 @@ export default {
         },
         backendOptions: [
                     { value: "http://127.0.0.1:25500/sub?" },
-                    { value: "https://study.lanyundev.com/sub?" },
+                    { value: "https://api.lanyundev.com/sub?" },
                     { value: "以下域名不保证可用性✅和安全性🔐" },
                     { value: "http://api.tsutsu.cc:520/sub?" },
                     { value: "https://api2.tsutsu.cc/sub?" },
